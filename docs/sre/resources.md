@@ -9,6 +9,7 @@ ALL SRE resources in a single page!
 | **Book Title** | **Description** | **Link** |
 |:---------------|:----------------|:--------:|
 | **Build Secure & Reliable Systems** | Best Practices for Designing, Implementing, and Maintaining Systems. | [Read online](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) |
+| **Free Programming Books** | List of Free Learning Resources In Many Languages. | [Check out](https://github.com/EbookFoundation/free-programming-books) |
 | **Site Reliability Engineering** | How Google Runs Production Systems. | [Read online](https://sre.google/sre-book/table-of-contents/) |
 | **The Site Reliaiblity Workbook** | Practical Ways to Implement SRE. | [Read online](https://sre.google/workbook/table-of-contents/) |
 | | | |
@@ -29,7 +30,7 @@ ALL SRE resources in a single page!
 
 | **Conference** | **Characteristics** | **Organizer** | **Link** |
 |:---------------|:--------------------|:--------------|:--------:|
-| **SREday** | In-person, mutiple cities, and quarterly | Harness | [Site](https://sreday.com/) |
+| **SREday** | In-person, mutiple cities, and quarterly | SREday | [Site](https://sreday.com/) |
 | **SREcon** EMEA | In-person, variable city, and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
 | **SREcon** Americas | In-person, variable city, and yearly | USENIX | [Site](https://www.usenix.org/srecon) |
 | | | | |
@@ -88,7 +89,7 @@ ALL SRE resources in a single page!
 |:-------------------|:----------------|:--------:|
 | System-Theoretic Process Analysis (STPA) | STPA can help anticipate hazardous scenarios and it's aligned with the principles of Site Reliability Engineering. | [MIT](http://psas.scripts.mit.edu/home/wp-content/uploads/2020/07/JThomas-STPA-Introduction.pdf) |
 | Systems Thinking | SREs are systems thinkers by nature. They must understand what systems thinking is and apply it often. | [University of Phoenix](https://www.phoenix.edu/blog/what-is-systems-thinking.html) |
-| Architecture Reliability Index (ARI) | Still be properly defined. | Not available at this moment. |
+| Architecture Reliability Index (ARI) | Still need be properly defined. | Not available at this moment. |
 | | | |
 
 ### Reports & Guides
