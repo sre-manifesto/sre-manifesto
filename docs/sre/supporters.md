@@ -18,6 +18,7 @@
 | `Stephen Townshend` | Environments Manager, Slight Reliability Podcast Host | SquaredUp | 2024-02-18 |
 | `Eddier Ocampo Marín` | SRE Consultant | Red Hat | 2024-03-05 |
 | `Ingo Averdunk` | SRE Distinguished Engineer | IBM | 2024-09-04 |
+| `Luiz Siqueira` | SRE Manager | Bradesco | 2025-08-25 |
 | | | | |
 
 ## Disclaimer
