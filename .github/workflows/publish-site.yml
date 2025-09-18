@@ -21,4 +21,6 @@ jobs:
       - name: Get latest changes
         run: git pull
       - name: Deploy new site
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: mkdocs gh-deploy
