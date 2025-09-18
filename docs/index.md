@@ -13,7 +13,7 @@ An open-source <font color="red">Site Reliability Engineering</font> **Manifesto
 
 ### Intro
 
-In 2003, Google published the book titled **Site Reliability Engineering** unveiling the operational model behind its notorious success. Although it's a well-written work, it didn't intend to prescribe the primary responsibilities of a site reliability engineer (SRE) or their core skills.
+In 2016, Google published the book titled **Site Reliability Engineering** unveiling the operational model behind its notorious success. The SRE model began in 2003, years before the book's release. Although it's a well-written work, it didn't intend to prescribe the primary responsibilities of a site reliability engineer (SRE) or their core skills.
 
 The SRE Manifesto is a timid project that conveys the SRE's primary responsibilities and core skills in a single document, thus giving shape to this profession outside Google and trying to universalize the role. Also, it intends to be a vendor-agnostic one-stop shop for all precious **Site Reliability Engineering** practices and resources.
 
