@@ -22,5 +22,5 @@ jobs:
         run: git pull
       - name: Deploy new site
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: mkdocs gh-deploy
