@@ -19,7 +19,7 @@
 | `Eddier Ocampo Marín` | SRE Consultant | Red Hat | 2024-03-05 |
 | `Ingo Averdunk` | SRE Distinguished Engineer | IBM | 2024-09-04 |
 | `Luiz Siqueira` | SRE Manager | Bradesco | 2025-08-25 |
-| `Mark Mark Pawlikowski` | Director | SREday | 2025-10-16 |
+| `Mark Pawlikowski` | Director | SREday | 2025-10-16 |
 | | | | |
 
 ## Disclaimer
