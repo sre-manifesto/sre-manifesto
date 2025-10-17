@@ -20,6 +20,7 @@
 | `Ingo Averdunk` | SRE Distinguished Engineer | IBM | 2024-09-04 |
 | `Luiz Siqueira` | SRE Manager | Bradesco | 2025-08-25 |
 | `Mark Pawlikowski` | Director | SREday | 2025-10-16 |
+| `Levi Leopoldino Alves (Levilinux)` | Founder | DevOps User Group Brazil (DOUGBR) | 2025-10-17 |
 | | | | |
 
 ## Disclaimer
