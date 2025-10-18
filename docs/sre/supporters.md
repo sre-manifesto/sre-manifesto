@@ -27,4 +27,8 @@
 
 _The opinions expressed by the signatories and supporters on this material are their own, not necessarily those of companies listed here or their subsidiaries. The mention of the above companies is solely for the transparency and fairness purposes. Any SRE from any company (or as a person) is welcome to sign/support this manifesto._
 
+## Becoming a Signatory Member
+
+If you desire to sign off the SRE Manifesto and have your name appear in this list, please open an Issue in the GitHub repository using the "Signatory Request" template, which you can find at this [direct link](https://github.com/sre-manifesto/sre-manifesto/issues/new?template=signatory-request.md).
+
 ## End
