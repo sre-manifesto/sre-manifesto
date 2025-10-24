@@ -29,6 +29,6 @@ _The opinions expressed by the signatories and supporters on this material are t
 
 ## Becoming a Signatory Member
 
-If you desire to sign off the SRE Manifesto and have your name appear in this list, please open an Issue in the GitHub repository using the "Signatory Request" template, which you can find at this [direct link](https://github.com/sre-manifesto/sre-manifesto/issues/new?template=signatory-request.md).
+If you desire to sign off the SRE Manifesto and have your name appear in this list, please open an Issue in the GitHub repository using the "Signatory Request" template, which you can find at this [direct link](https://github.com/sre-manifesto/sre-manifesto/issues/new?template=signatory-request.md). After your request is approved, you will receive instructions to claim your badge from `certifier.io` as a token of appreciation for your support. For more details on the badge process, see [certifier.io badge instructions](https://certifier.io/help).
 
 ## End
