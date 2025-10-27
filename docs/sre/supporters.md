@@ -5,7 +5,7 @@
 | **Name** | **Title** | **Company** | **Date** |
 |:---------|:----------|:------------|:---------|
 | `Jeremy Proffitt`                 | SRE Director | Ally | 2022-08-22 |
-| `Rod Anami`                       | SRE Lead | Kyndryl | 2022-08-22 |
+| `Rod Anami`                       | Lead SRE | Kyndryl | 2022-08-22 |
 | `Gene Brown`                      | Distinguished Engineer | Kyndryl | 2022-08-22 |
 | `Chris Smith`                     | Senior Director | Ally | 2022-08-22 |
 | `Brannen Taylor`                  | Network Manager | LendingTree | 2022-08-22 |
