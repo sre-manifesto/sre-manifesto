@@ -2,26 +2,26 @@
 
 ## Signatories and Supporters
 
-| **Name____________** | **Title** | **Company** | **Date** |
+| **Name** | **Title** | **Company** | **Date** |
 |:---------|:----------|:------------|:---------|
-| `Jeremy Proffitt`| SRE Director | Ally | 2022-08-22 |
-| `Rod Anami` | SRE Coach | Kyndryl | 2022-08-22 |
-| `Gene Brown` | Distinguished Engineer | Kyndryl | 2022-08-22 |
-| `Chris Smith` | Senior Director | Ally | 2022-08-22 |
-| `Brannen Taylor` | Network Manager | LendingTree | 2022-08-22 |
-| `Itohan Eregie` | Cloud Engineer | Cyberspace Network Limited | 2022-08-22 |
-| `Thomas King` | Site Reliability Engineer | Kyndryl | 2022-08-22 |
-| `Robert Baron` | Site Reliability Engineer | IBM | 2024-02-13 |
-| `Danne Aguiar` | Site Reliability Engineer | Kyndryl | 2024-02-14 |
-| `Manoj Kuppam` | Site Reliability Engineering Lead |  Medline Industries |2024-02-16 |
-| `Ralph Bateman` | SRE Distinguished Engineer | IBM | 2024-02-16 |
-| `Stephen Townshend` | Environments Manager, Slight Reliability Podcast Host | SquaredUp | 2024-02-18 |
-| `Eddier Ocampo Marín` | SRE Consultant | Red Hat | 2024-03-05 |
-| `Ingo Averdunk` | SRE Distinguished Engineer | IBM | 2024-09-04 |
-| `Luiz Siqueira` | SRE Manager | Bradesco | 2025-08-25 |
-| `Mark Pawlikowski` | Director | SREday | 2025-10-16 |
+| `Jeremy Proffitt`                 | SRE Director | Ally | 2022-08-22 |
+| `Rod Anami`                       | SRE Lead | Kyndryl | 2022-08-22 |
+| `Gene Brown`                      | Distinguished Engineer | Kyndryl | 2022-08-22 |
+| `Chris Smith`                     | Senior Director | Ally | 2022-08-22 |
+| `Brannen Taylor`                  | Network Manager | LendingTree | 2022-08-22 |
+| `Itohan Eregie`                   | Cloud Engineer | Cyberspace Network Limited | 2022-08-22 |
+| `Thomas King`                     | Site Reliability Engineer | Kyndryl | 2022-08-22 |
+| `Robert Baron`                    | Site Reliability Engineer | IBM | 2024-02-13 |
+| `Danne Aguiar`                    | Site Reliability Engineer | Kyndryl | 2024-02-14 |
+| `Manoj Kuppam`                    | Site Reliability Engineering Lead |  Medline Industries | 2024-02-16 |
+| `Ralph Bateman`                   | SRE Distinguished Engineer | IBM | 2024-02-16 |
+| `Stephen Townshend`               | Environments Manager, Slight Reliability Podcast Host | SquaredUp | 2024-02-18 |
+| `Eddier Ocampo Marín`             | SRE Consultant | Red Hat | 2024-03-05 |
+| `Ingo Averdunk`                   | SRE Distinguished Engineer | IBM | 2024-09-04 |
+| `Luiz Siqueira`                   | SRE Manager | Bradesco | 2025-08-25 |
+| `Mark Pawlikowski`                | Director | SREday | 2025-10-16 |
 | `Levi Leopoldino Alves (Levinux)` | Founder | DevOps User Group Brazil (DOUGBR) | 2025-10-17 |
-| `Manish Singh` | Lead SRE | General Mills | 2025-10-27 |
+| `Manish Singh`                    | Lead SRE | General Mills | 2025-10-27 |
 | | | | |
 
 ## Disclaimer
