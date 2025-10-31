@@ -22,6 +22,7 @@
 | `Mark Pawlikowski`                | Director | SREday | 2025-10-16 |
 | `Levi Leopoldino Alves (Levinux)` | Founder | DevOps User Group Brazil (DOUGBR) | 2025-10-17 |
 | `Manish Singh`                    | Lead SRE | General Mills | 2025-10-27 |
+| `Andre Luiz Bonfa Francisco`      | SRE Coordinator | Telefonica Vivo | 2025-10-31 |
 | | | | |
 
 ## Disclaimer
