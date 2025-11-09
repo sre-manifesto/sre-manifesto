@@ -23,6 +23,7 @@
 | `Levi Leopoldino Alves (Levinux)` | Founder | DevOps User Group Brazil (DOUGBR) | 2025-10-17 |
 | `Manish Singh`                    | Lead SRE | General Mills | 2025-10-27 |
 | `Andre Luiz Bonfa Francisco`      | SRE Coordinator | Telefonica Vivo | 2025-10-31 |
+| `Pedro Geraldes`                  | Site Reliability Engineer | Kyndryl | 2025-11-07 |
 | | | | |
 
 ## Disclaimer
