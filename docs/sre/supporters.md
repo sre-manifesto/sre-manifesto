@@ -24,7 +24,7 @@
 | `Manish Singh`                    | Lead SRE | General Mills | 2025-10-27 |
 | `Andre Luiz Bonfa Francisco`      | SRE Coordinator | Telefonica Vivo | 2025-10-31 |
 | `Pedro Geraldes`                  | Site Reliability Engineer | Kyndryl | 2025-11-07 |
-| `Tiago Dias Generoso`.            | Site Reliability Engineer | Kyndryl | 2025-11-14 |
+| `Tiago Dias Generoso`             | Site Reliability Engineer | Kyndryl | 2025-11-14 |
 | | | | |
 
 ## Disclaimer
