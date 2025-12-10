@@ -25,6 +25,7 @@
 | `Andre Luiz Bonfa Francisco`      | SRE Coordinator | Telefonica Vivo | 2025-10-31 |
 | `Pedro Geraldes`                  | Site Reliability Engineer | Kyndryl | 2025-11-07 |
 | `Tiago Dias Generoso`             | Site Reliability Engineer | Kyndryl | 2025-11-14 |
+| `Arlindo Martins Corrêa`          | SRE Mentor | Formação SRE | 2025-12-02 |
 | | | | |
 
 ## Disclaimer
