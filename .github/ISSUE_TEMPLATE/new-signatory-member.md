@@ -18,12 +18,14 @@ New Signatory Member Request
 
 1. **Member name**: *Your name to be displayed (e.g. Rod Anami)*
 
-2. **Member GitHub userid**: **Your GitHub userid (e.g. rod4n4m1)*
+2. **Member GitHub userid**: *Your GitHub userid (e.g. rod4n4m1)*
 
-3. **Member e-mail**: *Personal e-mail if different from GitHub profile (i.e. <something>@<domain>)*
+3. **Member e-mail**: *Email address for the badge (i.e. <something>@<domain>)*
 
-4. **Member company**: *Employer name or personal if none (e.g. Kyndryl)*
+4. **Member company**: *Employer name or use personal if none (e.g. Kyndryl)*
 
 5. **Member job title**: *Your current job title if any (e.g. SRE)*
+
+6. **LinkedIn profile**: *Your LinkedIn handler (e.g. rodanami)*
 
 ## Attach any additional or supplemental files
