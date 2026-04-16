@@ -3,7 +3,7 @@
 ## Signatories and Supporters
 
 | **Name** | **Title** | **Company** | **Date** |
-|:---------|:----------|:------------|:---------|
+| :------- | :-------- | :---------- | :------- |
 | `Jeremy Proffitt`                 | SRE Director | Ally | 2022-08-22 |
 | `Rod Anami`                       | Lead SRE | Kyndryl | 2022-08-22 |
 | `Gene Brown`                      | Distinguished Engineer | Kyndryl | 2022-08-22 |
@@ -26,7 +26,7 @@
 | `Pedro Geraldes`                  | Site Reliability Engineer | Kyndryl | 2025-11-07 |
 | `Tiago Dias Generoso`             | Site Reliability Engineer | Kyndryl | 2025-11-14 |
 | `Arlindo Martins Corrêa`          | SRE Mentor | Formação SRE | 2025-12-02 |
-| `Elton Pontes Goncalves`.         | Senior Software Engineer DevOps / SRE | Apple Developer Academy - UFPE | 2025-12-11 |
+| `Elton Pontes Goncalves`          | Senior Software Engineer DevOps / SRE | Apple Developer Academy - UFPE | 2025-12-11 |
 | | | | |
 
 ## Disclaimer

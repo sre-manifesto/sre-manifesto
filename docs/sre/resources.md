@@ -2,12 +2,20 @@
 
 ALL SRE resources in a single page!
 
+## Podcasts
+
+| **Title** | **Description** | **Link** |
+|:-------------|:--------------|:------:|
+| Book: Becoming a Rockstar SRE (English) | Short videos summarizing each chapter of the book "Becoming a Rockstar SRE" in English. | [YouTube Playlist](https://www.youtube.com/watch?v=2gB7zcBfczM&list=PL_9BaE03ce1ayL6iHeHStapCSv4yF-Scb) |
+| Book: Becoming a Rockstar SRE (Español)  | Short videos summarizing each chapter of the book "Becoming a Rockstar SRE" in Spanish. | [YouTube Playlist](https://www.youtube.com/watch?v=_UQUYoEewPg&list=PL_9BaE03ce1ZLIsXbhrmEksfw0Mz7m6bD) |
+| | | |
+
 ## Books
 
 ### Free
 
 | **Book Title** | **Description** | **Link** |
-|:---------------|:----------------|:--------:|
+|:-------------|:--------------|:------:|
 | **Build Secure & Reliable Systems** | Best Practices for Designing, Implementing, and Maintaining Systems. | [Read online](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) |
 | **Free Programming Books** | List of Free Learning Resources In Many Languages. | [Check out](https://github.com/EbookFoundation/free-programming-books) |
 | **Site Reliability Engineering** | How Google Runs Production Systems. | [Read online](https://sre.google/sre-book/table-of-contents/) |
@@ -17,7 +25,7 @@ ALL SRE resources in a single page!
 ### Paid
 
 | **Book Title** | **Description** | **Link** |
-|:---------------|:----------------|:--------:|
+|:-------------|:--------------|:------:|
 | **Becoming a Rockstar SRE** | Electrify your site reliability engineering mindset to build reliable, resilient, and efficient systems. | [Amazon](https://packt.link/H0G2R) |
 | **Implementing Service Level Objectives** | A Practical Guide to SLIs, SLOs, and Error Budgets. | [Amazon](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813/) |
 | **Observability Engineering** | Achieving Production Excellence. | [Amazon](https://www.amazon.com/Observability-Engineering-Achieving-Production-Excellence/dp/1492076449/) |
