@@ -2,82 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.sre-manifesto.org/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/about/author/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/about/site/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/aut100/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/aut101/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/doe100/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/dsc100/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/obs100/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/obs101/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/sth100/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/sth101/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/sth102/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/practices/template/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/sre/knot/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/sre/manifesto/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/sre/practices/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/sre/resources/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/sre/revisions/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/sre/role/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
     </url>
     <url>
          <loc>https://www.sre-manifesto.org/sre/supporters/</loc>
-         <lastmod>2026-09-10</lastmod>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://www.sre-manifesto.org/sre/books/ai-4-sre/</loc>
+         <lastmod>2026-09-20</lastmod>
+    </url>
+    <url>
+         <loc>https://www.sre-manifesto.org/sre/books/ai-4-sre/chapter-01/</loc>
+         <lastmod>2026-09-20</lastmod>
     </url>
 </urlset>
