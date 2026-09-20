@@ -17,6 +17,7 @@ ALL SRE resources in a single page!
 
 | **Book Title** | **Description** | **Link** |
 | :------------- | :-------------- | :------: |
+| **AI for SRE** | AI for DevOps and Site Reliability Engineering e-book | [Read online](./books/ai-4-sre/index.md) | 
 | **Build Secure & Reliable Systems** | Best Practices for Designing, Implementing, and Maintaining Systems. | [Read online](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) |
 | **Free Programming Books** | List of Free Learning Resources In Many Languages. | [Check out](https://github.com/EbookFoundation/free-programming-books) |
 | **Site Reliability Engineering** | How Google Runs Production Systems. | [Read online](https://sre.google/sre-book/table-of-contents/) |
