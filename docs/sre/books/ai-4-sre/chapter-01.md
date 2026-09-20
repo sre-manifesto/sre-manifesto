@@ -43,6 +43,7 @@ It is critical to distinguish AI, ML, and cognitive computing because they share
 
 In a simplified view, AI contains ML, and ML may include Deep Learning (DL). Cognitive computing contains AI, automation, and sensors. The diagram in Figure 1.1 shows the relationship between AI, ML, DL, and cognitive computing.
 
+![1.1](./assets/chapter1-1a.png)
 Figure 1.1 - The AI stack of hierarchical diagram
 
 At the top of the stack is cognitive computing, where AI models, sensors, automation, and sentiment analysis interact with human beings. Many home appliances already embed cognitive features. Examples include Alexa and Siri.
@@ -73,6 +74,7 @@ Since 2022, AI has become mainstream again with ChatGPT. However, AI has been ev
 * Strong AI
 * Super AI
 
+![1.2](./assets/chapter1-2.png)
 Figure 1.2 - Stages of AI evolution ladder
 
 Weak AI, also called Artificial Narrow Intelligence (ANI), is the application of reactive or limited AI to solve a specific problem domain. AI systems inside video games are a good example. Other examples include computer-controlled chess players and recommendation systems on streaming platforms that learn a user's preferences.
@@ -90,6 +92,7 @@ Another way to categorize AI systems is by function. Using that approach, we hav
 * Theory-of-mind
 * Self-awareness
 
+![1.3](./assets/chapter1-3.png)
 Figure 1.3 - Types of AI based on functionality
 
 Reactive machines, or reactive AI, cannot learn from mistakes and are considered static models. They cannot adapt to unexplored situations. For example, IBM Deep Blue, a chess-playing supercomputer, defeated Garry Kasparov in 1996. While impressive, it could not learn further or improve its strategy.
@@ -106,6 +109,7 @@ The last category of AI is self-awareness. Systems in this class possess conscio
 
 In a simplified diagram, the main components of current AI systems are shown in Figure 1.4.
 
+![1.4](./assets/chapter1-4a.png)
 Figure 1.4 - The standard components of AI models
 
 According to Arthur Samuel, machine learning is "the field of study that gives computers the ability to learn without being explicitly programmed." It can be seen as a subset of AI responsible for creating models from ingested data so those models can later predict outcomes.
@@ -126,6 +130,7 @@ In other words, machine learning allows computers to solve specific problems by 
 
 It is all about data. Figure 1.5 shows a condensed view of how ML works.
 
+![1.5](./assets/chapter1-5.png)
 Figure 1.5 - The ML generic flow
 
 An ML algorithm ingests data, usually called the training dataset. This algorithm detects patterns and insights in large amounts of data, a task that would be impossible for most humans. Then it creates a model from that dataset that can predict future values or infer results for new data. This process is called training. In general, the better the training data, the more accurate the model becomes.
@@ -172,6 +177,7 @@ With that in mind, ML can be used to solve the following problem domains:
 
 Another critical aspect of ML is its algorithms. Advanced AI systems often combine several ML algorithms in their workflows. A wide range of algorithms exists, and new ones are created frequently.
 
+![1.6](./assets/chapter1-6.png)
 Figure 1.6 - The well-known ML algorithms table
 
 This table is split into three columns, one for each machine-learning paradigm. Different colors highlight different algorithm families. The universe of ML algorithms is far larger than any single table can show.
@@ -182,6 +188,7 @@ Deep learning is the intersection of machine learning and artificial neural netw
 
 A deep neural network contains multiple perceptrons arranged in layers. The network is called deep because it has hidden layers between the input and output layers. Figure 1.7 shows a schematic deep neural network.
 
+![1.7](./assets/chapter1-7.png)
 Figure 1.7 - A deep neural network diagram
 
 A deep neural network has one input layer, which receives the data, and one output layer, which produces the result. In between are several hidden layers. A perceptron in one layer is connected to nodes in the next layer. Each connection has a weight that determines how important an input is to the next node. Each node also has an activation function: a mathematical formula that converts inputs and weights into an output value.
@@ -226,6 +233,7 @@ DevSecOps, or simply DevOps, is a philosophy of work that transformed software e
 
 The DevOps movement is often represented with an infinite symbol, as shown in Figure 1.8.
 
+![1.8](./assets/chapter1-8.png)
 Figure 1.8 - The DevOps infinite symbol with AI
 
 The core of DevOps is the Continuous Integration/Continuous Deployment (CI/CD) pipeline. This is the continuous flow of software design, development, build, testing, release, deployment, operation, and monitoring. Applying AI to DevOps has many implications, and there are several different lenses to consider.
@@ -261,6 +269,7 @@ Site reliability engineering celebrated its 20th anniversary in 2023. When Googl
 
 SRE differs from DevOps in important ways. Instead of a shift-right transformation, SRE is a shift-left approach where software engineering principles are applied to solve operational problems. SREs and DevOps engineers work together to accelerate delivery time while improving reliability.
 
+![1.9](./assets/chapter1-9.png)
 Figure 1.9 - The commonalities and differences between SREs and DevOps engineers
 
 SREs and DevOps engineers share common values and frameworks, but SREs usually work across a broader operational surface, including hybrid cloud environments and production systems. They aim to improve observability, reduce toil, design automation, and improve incident response and postmortem culture.
@@ -300,6 +309,8 @@ We go deeper into this theme in Part 3 of the book, where we focus on AI in plat
 So far, we have been discussing AI applications in the abstract: what they do and why they are useful. But AI/ML solutions require compute resources, storage, and often specialized hardware such as GPUs and FPGAs. Training and operating these systems also require expertise.
 
 For most organizations, it is easier to outsource the difficult components to an AI/ML-as-a-service model offered by hyperscalers.
+
+![1.10](./assets/chapter1-10.png)
 
 Figure 1.10 - The differences among cloud adoption models
 
