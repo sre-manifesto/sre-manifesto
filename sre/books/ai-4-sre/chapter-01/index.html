@@ -776,7 +776,8 @@
 </ul>
 <h3 id="the-holistic-view">The holistic view</h3>
 <p>In a simplified view, AI contains ML, and ML may include Deep Learning (DL). Cognitive computing contains AI, automation, and sensors. The diagram in Figure 1.1 shows the relationship between AI, ML, DL, and cognitive computing.</p>
-<p>Figure 1.1 - The AI stack of hierarchical diagram</p>
+<p><img alt="1.1" src="../assets/chapter1-1a.png" />
+Figure 1.1 - The AI stack of hierarchical diagram</p>
 <p>At the top of the stack is cognitive computing, where AI models, sensors, automation, and sentiment analysis interact with human beings. Many home appliances already embed cognitive features. Examples include Alexa and Siri.</p>
 <p>Cognitive computing was once considered the apex of AI innovation through home robots and virtual assistants. After GenAI and LLMs, it became secondary and is often treated as a subset of the AI layer.</p>
 <p>The next layer is AI, where we have far more machine capability than a simple set of algorithms. We can define AI as an interface to ML models and as an application that mimics human behavior. AI is also one of the oldest areas of study in computer science. Researchers have long tried to build machines capable of making predictions using statistical methods. The most basic AI task is to classify datasets according to their features. For example, an AI model can determine whether a picture was taken during the day or at night based on the values in the RGB color matrix. Another example is predicting the likelihood of a service disruption based on recent captured events.</p>
@@ -796,7 +797,8 @@
 <li>Strong AI</li>
 <li>Super AI</li>
 </ul>
-<p>Figure 1.2 - Stages of AI evolution ladder</p>
+<p><img alt="1.2" src="../assets/chapter1-2.png" />
+Figure 1.2 - Stages of AI evolution ladder</p>
 <p>Weak AI, also called Artificial Narrow Intelligence (ANI), is the application of reactive or limited AI to solve a specific problem domain. AI systems inside video games are a good example. Other examples include computer-controlled chess players and recommendation systems on streaming platforms that learn a user's preferences.</p>
 <p>Strong AI, also called Artificial General Intelligence (AGI), is a stage where AI can adapt and learn on the fly with human-like capabilities. It would possess flexible models and advanced algorithms that can solve problems without human intervention. In practice, this remains largely theoretical. Even self-driving cars and autonomous surgical robots are not considered full AGI.</p>
 <p>Super AI, also known as Artificial Super Intelligence (ASI), is a hypothetical stage where AI surpasses humans in learning, reasoning, and perception. Many experts believe this may happen eventually, but this debate is beyond the scope of this book.</p>
@@ -808,7 +810,8 @@
 <li>Theory-of-mind</li>
 <li>Self-awareness</li>
 </ul>
-<p>Figure 1.3 - Types of AI based on functionality</p>
+<p><img alt="1.3" src="../assets/chapter1-3.png" />
+Figure 1.3 - Types of AI based on functionality</p>
 <p>Reactive machines, or reactive AI, cannot learn from mistakes and are considered static models. They cannot adapt to unexplored situations. For example, IBM Deep Blue, a chess-playing supercomputer, defeated Garry Kasparov in 1996. While impressive, it could not learn further or improve its strategy.</p>
 <p>Limited memory systems are capable of learning by storing past data and predictions to improve future outcomes. They usually rely on continuous learning cycles where an external entity validates their predictions. Driverless cars, IBM Watson, and ChatGPT fit this category.</p>
 <p>Theory-of-mind is the next leap in AI capability. In psychology, this refers to the ability to understand others' mental states, including beliefs, desires, emotions, intentions, and thoughts. AI systems in this category would interact with humans at a deeper level, adapting to their emotions and possibly passing the Turing Test consistently. Examples exist mostly in fiction and research prototypes, such as Sophia and Kismet.</p>
@@ -818,7 +821,8 @@
 <p>The last category of AI is self-awareness. Systems in this class possess consciousness and recognize humans as sentient beings. We are still uncertain whether AI will ever reach this level. Examples are fictional characters such as Data from Star Trek and the Cylons from Battlestar Galactica.</p>
 <h3 id="the-components-of-ai">The components of AI</h3>
 <p>In a simplified diagram, the main components of current AI systems are shown in Figure 1.4.</p>
-<p>Figure 1.4 - The standard components of AI models</p>
+<p><img alt="1.4" src="../assets/chapter1-4a.png" />
+Figure 1.4 - The standard components of AI models</p>
 <p>According to Arthur Samuel, machine learning is "the field of study that gives computers the ability to learn without being explicitly programmed." It can be seen as a subset of AI responsible for creating models from ingested data so those models can later predict outcomes.</p>
 <p>Natural Language Processing (NLP) is an AI component that allows machines to understand text and speak like humans. Software with speech generation or speech-to-text capabilities is an example of this component.</p>
 <p>Artificial Neural Networks (ANNs), also called neural networks, emulate a network of neurons similar to the processing mechanism inside the human brain. These are central to deep learning algorithms.</p>
@@ -828,7 +832,8 @@
 <p>We can interpret E as the experience of playing a soccer video game, T as the task of playing that game with a specific team, and P as the probability of winning against a human opponent.</p>
 <p>In other words, machine learning allows computers to solve specific problems by learning from data and making decisions. So how does a machine improve with experience?</p>
 <p>It is all about data. Figure 1.5 shows a condensed view of how ML works.</p>
-<p>Figure 1.5 - The ML generic flow</p>
+<p><img alt="1.5" src="../assets/chapter1-5.png" />
+Figure 1.5 - The ML generic flow</p>
 <p>An ML algorithm ingests data, usually called the training dataset. This algorithm detects patterns and insights in large amounts of data, a task that would be impossible for most humans. Then it creates a model from that dataset that can predict future values or infer results for new data. This process is called training. In general, the better the training data, the more accurate the model becomes.</p>
 <p>After the model is trained, we feed testing data, also called validation data, to measure its precision. Since we know the correct answers in the test dataset, we can compare the predicted values with the actual ground truth and evaluate the model's accuracy.</p>
 <p>For example, an ML algorithm can learn from many images of handwritten digits from 0 to 9. Once trained, the model receives a new image and predicts which digit it represents. This is called Optical Character Recognition (OCR).</p>
@@ -857,12 +862,14 @@
 </ul>
 <h3 id="algorithms">Algorithms</h3>
 <p>Another critical aspect of ML is its algorithms. Advanced AI systems often combine several ML algorithms in their workflows. A wide range of algorithms exists, and new ones are created frequently.</p>
-<p>Figure 1.6 - The well-known ML algorithms table</p>
+<p><img alt="1.6" src="../assets/chapter1-6.png" />
+Figure 1.6 - The well-known ML algorithms table</p>
 <p>This table is split into three columns, one for each machine-learning paradigm. Different colors highlight different algorithm families. The universe of ML algorithms is far larger than any single table can show.</p>
 <h2 id="deep-learning">Deep learning</h2>
 <p>Deep learning is the intersection of machine learning and artificial neural networks (ANNs). ANNs are meshes of artificial neurons, known as perceptrons or nodes. Like a human neuron, a perceptron receives multiple input signals, applies statistical transformations and functions, and emits an output.</p>
 <p>A deep neural network contains multiple perceptrons arranged in layers. The network is called deep because it has hidden layers between the input and output layers. Figure 1.7 shows a schematic deep neural network.</p>
-<p>Figure 1.7 - A deep neural network diagram</p>
+<p><img alt="1.7" src="../assets/chapter1-7.png" />
+Figure 1.7 - A deep neural network diagram</p>
 <p>A deep neural network has one input layer, which receives the data, and one output layer, which produces the result. In between are several hidden layers. A perceptron in one layer is connected to nodes in the next layer. Each connection has a weight that determines how important an input is to the next node. Each node also has an activation function: a mathematical formula that converts inputs and weights into an output value.</p>
 <p>In addition, a bias term is added to the weighted sum. This helps shift the activation function toward positive or negative values and accelerates calibration during training.</p>
 <p>Consider a travel system where the inputs are origin city, destination city, departure date, and airline, and the outputs are airfare, airport taxes, and best travel time. A deep learning model can estimate these outputs after training. Training a neural network is challenging because it requires large amounts of data and computing power.</p>
@@ -893,7 +900,8 @@
 <p>Important note: Throughout this book, we use DevOps and DevSecOps interchangeably. Although many Dev[X]Ops variants exist, DevOps is broad enough to address most enterprise software engineering needs.</p>
 </blockquote>
 <p>The DevOps movement is often represented with an infinite symbol, as shown in Figure 1.8.</p>
-<p>Figure 1.8 - The DevOps infinite symbol with AI</p>
+<p><img alt="1.8" src="../assets/chapter1-8.png" />
+Figure 1.8 - The DevOps infinite symbol with AI</p>
 <p>The core of DevOps is the Continuous Integration/Continuous Deployment (CI/CD) pipeline. This is the continuous flow of software design, development, build, testing, release, deployment, operation, and monitoring. Applying AI to DevOps has many implications, and there are several different lenses to consider.</p>
 <p>For this discussion, we separate the topic into two process groups:</p>
 <ul>
@@ -913,7 +921,8 @@
 <h2 id="ai-applied-to-site-reliability-engineering">AI applied to site reliability engineering</h2>
 <p>Site reliability engineering celebrated its 20th anniversary in 2023. When Google exposed this philosophy to the world through its books, many companies started to adopt site reliability principles and practices into their engineering processes. Google also created one of the earliest AI applications in the famous PageRank algorithm used in its Search Engine Optimization (SEO) tools. Although PageRank is not a formal ML model, it is often recognized as a basic unsupervised learning technique.</p>
 <p>SRE differs from DevOps in important ways. Instead of a shift-right transformation, SRE is a shift-left approach where software engineering principles are applied to solve operational problems. SREs and DevOps engineers work together to accelerate delivery time while improving reliability.</p>
-<p>Figure 1.9 - The commonalities and differences between SREs and DevOps engineers</p>
+<p><img alt="1.9" src="../assets/chapter1-9.png" />
+Figure 1.9 - The commonalities and differences between SREs and DevOps engineers</p>
 <p>SREs and DevOps engineers share common values and frameworks, but SREs usually work across a broader operational surface, including hybrid cloud environments and production systems. They aim to improve observability, reduce toil, design automation, and improve incident response and postmortem culture.</p>
 <p>We can apply AI to site reliability engineering from multiple perspectives. For this introductory chapter, we divide the topic into these areas:</p>
 <ul>
@@ -937,6 +946,7 @@
 <h2 id="ai-offered-on-the-cloud">AI offered on the cloud</h2>
 <p>So far, we have been discussing AI applications in the abstract: what they do and why they are useful. But AI/ML solutions require compute resources, storage, and often specialized hardware such as GPUs and FPGAs. Training and operating these systems also require expertise.</p>
 <p>For most organizations, it is easier to outsource the difficult components to an AI/ML-as-a-service model offered by hyperscalers.</p>
+<p><img alt="1.10" src="../assets/chapter1-10.png" /></p>
 <p>Figure 1.10 - The differences among cloud adoption models</p>
 <p>There are several cloud adoption models, and the amount of management responsibility varies significantly:</p>
 <ul>
