@@ -29,6 +29,7 @@
 | `Elton Pontes Goncalves`          | Senior Software Engineer DevOps / SRE | Apple Developer Academy - UFPE | 2025-12-11 |
 | `Willian Bersch Yamashita`        | SRE Specialist | Bradesco S.A. | 2026-06-21 |
 | `William Akihiro Alves Aisawa`    | Site Reliability Engineer | ICMC-USP | 2026-06-21 |
+| `Martin Mintah` | DevOps Engineer | Interpol | 2026-10-20 |
 
 ## Disclaimer
 
